@@ -1,3 +1,3 @@
 # getmygit
 
-This should be the brached version.
+This should be the branched version.
